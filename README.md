@@ -1,1 +1,1 @@
-# Proyecto-Faja-transportadora
+# Faja-transportadora-y-clasificadora
